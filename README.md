@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FilahAA
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Git
-- 📫 How to reach me Email : filah.aditiaa@gmail.com - Discord : https://discord.com/users/384325485288620032
+- 👀 I’m interested in DevSecOps
+- 🌱 I’m currently learning Kubernetes
+- 📫 How to reach me Email : filah.aditiaa@gmail.com
 
 <!---
 FilahAA/FilahAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
